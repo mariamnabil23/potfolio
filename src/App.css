@@ -1,0 +1,23 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+/*navbar*/
+nav .nav-logo{
+  color: #0E5E6F;
+  font-weight: bolder;
+  font-size: 25px;
+}
+nav .nav-logo:hover{
+  color: #97DECE;
+}
+nav .nav-link{
+  color: white;
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-left: 10px;
+}
+nav .nav-link.active{
+  color: aqua;
+}
